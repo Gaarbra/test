@@ -1,0 +1,36 @@
+.footer {
+  background-color: #5d4630;
+  color: #ffffff;
+  padding: 40px 0;
+}
+
+.footer-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.logo-container {
+  margin-bottom: 20px;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+}
+
+.social-icons {
+  display: flex;
+  gap: 10px;
+}
+
+.icon {
+  color: #ffffff;
+  font-size: 24px;
+}
+
+.subtitle {
+  font-size: 14px;
+  margin-top: 20px;
+}
